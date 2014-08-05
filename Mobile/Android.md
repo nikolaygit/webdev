@@ -4,7 +4,7 @@ Android Apps criteria:
 * free
 
 # PDF
-* Foxit PDF
+* Foxit PDF (free, but not open source, good usability)
 
 # Documents
 
@@ -12,7 +12,8 @@ Android Apps criteria:
 * [OwnCloud Client Pro](https://play.google.com/store/apps/details?id=owncloud.pro&hl=en)
 
 # Calendar
-* [DAVdroid](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) - CalDAV/CardDAV Sync
+* [DAVdroid](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) - CalDAV/CardDAV Sync (only syncing)
+* Google Calendar - as a calendar (better alternatives?)
 
 # Videos
 * Youtube Downloader:
