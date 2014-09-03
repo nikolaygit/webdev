@@ -5,6 +5,7 @@
 * [Learn CSS Layout](http://learnlayout.com) - this site teaches the CSS fundamentals that are used in any website's layout.
 
 ## Centering
+* [Centering in CSS: A Complete Guide](http://css-tricks.com/centering-css-complete-guide/)
 * [Absolute Horizontal And Vertical Centering In CSS](http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/)
 
 ## Grids
