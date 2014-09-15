@@ -21,3 +21,4 @@ See [creating project pages manually](https://help.github.com/articles/creating-
 
 ### Kanban Board for GitHub
 * [Huboard](https://huboard.com)
+* [Waffle](https://waffle.io)
