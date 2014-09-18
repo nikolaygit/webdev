@@ -43,7 +43,7 @@ https://www.jetbrains.com/pycharm/ is a Python and Django IDE
     * e.g. DB URL: jdbc:mysql://localhost/databasename
 * [Database Tools and SQL Support in IntelliJ IDEA](https://www.youtube.com/watch?v=P3C0iO1yqhk)
 
-#v Debugging
+#Debugging
 
 ### Node.js
 * Read [Running and Debugging Node.js](https://www.jetbrains.com/pycharm/webhelp/running-and-debugging-node-js.html)
