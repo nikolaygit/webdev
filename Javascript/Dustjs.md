@@ -16,3 +16,6 @@
 * [grunt-dust-html](https://github.com/ehynds/grunt-dust-html) - this task renders Dust templates against a context to produce HTML.
 * [grunt-dust-render](https://github.com/dig3/grunt-dust-render) - Grunt plugin to render dust templates to html.
 * [adaro](https://github.com/krakenjs/adaro) - an Express.js render plugin.
+
+Compiling:
+* [grunt-dust](https://github.com/vtsvang/grunt-dust) - compiling Dustjs to JS functions.
