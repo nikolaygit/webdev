@@ -11,9 +11,10 @@
 * Development - with the "full" version.
 * Production - compile your templates on the server (node.js + dust.js npm module or grunt). Use the "core" version on client. The core version doesn't have the template compiler and is to be used with pre-compiled templates.
 
-## Render server-side
+## Server-side render
 
 * [grunt-dust-html](https://github.com/ehynds/grunt-dust-html) - this task renders Dust templates against a context to produce HTML.
+  * using the ``module`` options you can add your custom helpers, like: https://github.com/nikolayhg/dustjs-helpers-extra
 * [grunt-dust-render](https://github.com/dig3/grunt-dust-render) - Grunt plugin to render dust templates to html.
 * [adaro](https://github.com/krakenjs/adaro) - an Express.js render plugin.
 
