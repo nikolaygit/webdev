@@ -51,7 +51,7 @@ Installing Grunt and gruntplugins:
 
 ## Create a Grunt plugin
 * Follow the steps in [Creating Grunt Plugins](http://gruntjs.com/creating-plugins).
-* Debug the Grunt plugin in [PyCharm](../Tools/PyCharm.md)
+* Debug the Grunt plugin in [PyCharm](../Tools/PyCharm.md#grunt)
 * Read the [Grunt API](http://gruntjs.com/api/grunt)
 
 ## Performance
