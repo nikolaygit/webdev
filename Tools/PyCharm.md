@@ -59,3 +59,6 @@ See [Remote Debugging a Grunt plugin in WebStorm](http://habrahabr.ru/post/17044
     * Add a breakpoint and run the Debug configuration.
 
 See also [local debugging hints from StackOverflow](http://stackoverflow.com/questions/17043484/grunt-debugging-from-webstorm).
+* New Node.js Debug
+* JS file: ``/usr/local/bin/grunt``
+* Application paramter: your grunt task
