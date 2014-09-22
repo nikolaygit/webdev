@@ -55,8 +55,9 @@ Here are described the steps to use Git under Windows. Feel free to improve the 
 * [Git-Cheat-Sheet.pdf](https://github.com/AlexZeitler/gitcheatsheet/blob/master/gitcheatsheet.pdf?raw=true) ([Source](https://github.com/AlexZeitler/gitcheatsheet))
 * [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html) - interactive.
 
-## Workflow
+## Workflows
 * http://scottchacon.com/2011/08/31/github-flow.html
+* [Distributed Workflows](http://git-scm.com/book/en/Distributed-Git-Distributed-Workflows) - Centralized Workflow, Integration-Manager Workflow, Dictator and Lieutenants Workflow.
 
 ## Links
 * [Quickly publish Github pages](http://pages.github.com/)
