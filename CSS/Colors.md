@@ -7,5 +7,8 @@
 * [Color Hex](http://www.color-hex.com/color/cccc99) - Enter your color and get more info (Shades, Tints, Monochromatic, Analogous, Triadic, Complementary Colors, Color Preview, CSS3 Examples).
 * [Flat UI Colors](http://flatuicolors.com/)
 
+# Palettes
+* [Design Seeds](http://design-seeds.com)
+
 # Names
 * [Color Names](http://www.colorsontheweb.com/colornames.asp) - see the color and its name.
