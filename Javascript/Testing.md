@@ -7,3 +7,6 @@
 * Inclusive and exclusive tests with ``.only()``.
 * Interfaces
   * BDD - ``describe(), it(), before(), after(), beforeEach(), and afterEach()``
+  * TDD - ``suite(), test(), setup(), and teardown()``
+  * exports, QUnit, require
+* Reporters: Console, JSON, HTML and others.
