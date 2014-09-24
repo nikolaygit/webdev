@@ -11,6 +11,9 @@
 * Development - with the "full" version.
 * Production - compile your templates on the server (node.js + dust.js npm module or grunt). Use the "core" version on client. The core version doesn't have the template compiler and is to be used with pre-compiled templates.
 
+## Helpers
+* [dustjs-helpers-extra](https://github.com/nikolayhg/dustjs-helpers-extra) - contains and iterate helpers.
+
 ## Server-side render
 
 * [grunt-dust-html](https://github.com/ehynds/grunt-dust-html) - this task renders Dust templates against a context to produce HTML.
