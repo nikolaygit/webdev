@@ -170,6 +170,7 @@ No jQuery needed.
 ## SVG Icons
 
 * [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
+* [SVG Icons - Ready to use SVG Icons for the web](http://bbriel.me/svgicons/)
 
 
 # Preprocessors
