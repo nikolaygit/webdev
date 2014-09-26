@@ -14,6 +14,8 @@
 ## Remote Debugging
 * [Firefox Remtote Debugging](https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging)
 
-### Android
+## Android
 * [Install ADB on Windows & ubuntu](http://androidforums.com/lg-spirit-4g/692656-install-adb-windows-ubuntu-12-04-12-10-a.html)
 * Run ```adb devices```
+
+See [Cordova](Cordova.md).
