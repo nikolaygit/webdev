@@ -33,3 +33,8 @@ ffmpeg -f x11grab -r 25 -s 1920x1200 -i :0.0 -sameq Desktop/out.mp4
 ## Tips
 
 * Disable Unnecessary Error Messages: ``gksu gedit /etc/default/apport``, set to ``enabled=0`` and ``sudo restart apport``.
+
+## Mounting
+
+How to [automatically mount a drive](http://askubuntu.com/a/231968/318549):
+* copy your drive information from ``sudo -H gedit /etc/mtab`` and paste it in: ``sudo gedit /etc/fstab``
