@@ -1,4 +1,4 @@
-# PhoneGap
+# Cordova
 
 ## Command-Line
 
