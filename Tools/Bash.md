@@ -17,3 +17,7 @@ chmod 700 /where/i/saved/it/hello_world.sh   #Gives read,write,execute permissio
 ## Shutdown
 
 ``sudo shutdown -h 18:45``
+
+## Search
+
+* [ack](http://beyondgrep.com/) - fast search in files (for programmers).
