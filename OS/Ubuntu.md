@@ -36,5 +36,4 @@ ffmpeg -f x11grab -r 25 -s 1920x1200 -i :0.0 -sameq Desktop/out.mp4
 
 ## Mounting
 
-How to [automatically mount a drive](http://askubuntu.com/a/231968/318549):
-* copy your drive information from ``sudo -H gedit /etc/mtab`` and paste it in: ``sudo gedit /etc/fstab``
+[Mount automatically NTFS drive](https://help.ubuntu.com/community/Fstab#ntfs).
