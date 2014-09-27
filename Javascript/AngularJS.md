@@ -14,6 +14,15 @@ http://angularjs.org/ - Front-end framework.
 * HTML templates, no new template lang.
 * JavaScript data structures
 
+## Main Topics
+The 80%:
+* $scope, $digest, $apply
+* Model View Whatever
+* Controller and $scope
+* View and Templates
+* Models and Services
+* Routes
+
 
 ## Best Practices
 * [AngularJS Application Structure](https://docs.google.com/presentation/d/1PgW0y9sg8tbLYrO5cXRVwepdYFZ_dxV3qb6kTOyt5Ec/edit?pli=1#slide=id.p)
