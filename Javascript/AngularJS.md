@@ -25,6 +25,7 @@ The 80%:
 
 
 ## Best Practices
+* [angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide)
 * [AngularJS Application Structure](https://docs.google.com/presentation/d/1PgW0y9sg8tbLYrO5cXRVwepdYFZ_dxV3qb6kTOyt5Ec/edit?pli=1#slide=id.p)
 * [AngularJS Best Practices, by Jaco Pretorius](http://www.jacopretorius.net/2013/07/angularjs-best-practices.html)
 * [Angular Best Practices, Talk 2012](http://fastandfluid.com/PublicDownloads/AngularBestPractices_2012-12-11.pdf)
