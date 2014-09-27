@@ -7,6 +7,14 @@ http://angularjs.org/ - Front-end framework.
 * [AngularJS Tutorial: Learn to Build Modern Web Apps](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
 * [Learn AngularJS With These 5 Practical Examples](http://tutorialzine.com/2013/08/learn-angularjs-5-examples/)
 
+## Advantages
+* Easily organize code
+* Testable code
+* Two-way data-binding
+* HTML templates, no new template lang.
+* JavaScript data structures
+
+
 ## Best Practices
 * [AngularJS Application Structure](https://docs.google.com/presentation/d/1PgW0y9sg8tbLYrO5cXRVwepdYFZ_dxV3qb6kTOyt5Ec/edit?pli=1#slide=id.p)
 * [AngularJS Best Practices, by Jaco Pretorius](http://www.jacopretorius.net/2013/07/angularjs-best-practices.html)
