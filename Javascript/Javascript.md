@@ -49,7 +49,7 @@ Siehe [Web Development Workflow](../Practices/Web_Development_Workflow.md)
 [Template-Engine-Chooser](http://garann.github.io/template-chooser/)
 
 ## Testing
-* [Jasmine](http://pivotal.github.io/jasmine/)
+* [Jasmine](http://jasmine.github.io/)
 * [PhantomJS](https://github.com/macbre/phantomas)
 * [DOM Monster](http://mir.aculo.us/dom-monster/) - cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.
 
