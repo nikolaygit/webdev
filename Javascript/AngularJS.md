@@ -24,6 +24,7 @@ The 80%:
 * Routes
 
 ## Testing
+* [Karma](http://karma-runner.github.io) - testing environment: test on real devices, framework agnostic, debugging, CI.
 * [Protractor](http://angular.github.io/protractor) - E2E testing.
 * [Jasmine](http://jasmine.github.io/) - Unit testing.
 
