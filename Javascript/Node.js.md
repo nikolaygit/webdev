@@ -7,3 +7,10 @@
 
 ## Intro
 * [An Absolute Beginner's Guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
+
+## Troubleshooting
+
+Sudo problems:
+* ``sudo chown -R `whoami` ~/.npm``
+* ``sudo chown -R `whoami` /usr/local/lib/node_modules``
+* [NPM throws error without sudo](http://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo)
