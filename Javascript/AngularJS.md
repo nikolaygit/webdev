@@ -23,6 +23,9 @@ The 80%:
 * Models and Services
 * Routes
 
+## Testing
+* [Protractor](http://angular.github.io/protractor) - E2E testing.
+* [Jasmine](http://jasmine.github.io/) - Unit testing.
 
 ## Best Practices
 * [angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide)
