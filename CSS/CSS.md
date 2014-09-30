@@ -128,7 +128,7 @@ See [CSS Layout](CSS_Layout.md)
 
 ## Loading
 * [SpinKit](http://tobiasahlin.com/spinkit/) - a collection of loading indicators animated with CSS.
-* [progre(c)ss](http://jh3y.github.io/progre-c-ss/) - pure css progress bars with minimal effort.
+* [progression](hhttp://jh3y.github.io/progression/) - pure css progress bars with minimal effort.
 * [Progress.js](http://usablica.github.io/progress.js/) - a themeable progress bar library for everything.
 * [nanobar.js](http://nanobar.micronube.com/) - very very lighweight progress bars (~725bytes gzipped).
 No jQuery needed.
