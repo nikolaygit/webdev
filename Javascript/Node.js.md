@@ -9,6 +9,13 @@
 ## Intro
 * [An Absolute Beginner's Guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
 
+
+## NPM Packages
+
+### Create NPM packages
+
+* [Creating and publishing a node.js module](http://quickleft.com/blog/creating-and-publishing-a-node-js-module)
+
 ## Troubleshooting
 
 Sudo problems:
