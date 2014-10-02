@@ -16,12 +16,14 @@ http://angularjs.org/ - Front-end framework.
 
 ## Main Topics
 The 80%:
-* $scope, $digest, $apply
-* Model View Whatever
-* Controller and $scope
-* View and Templates
-* Models and Services
 * Routes
+* Templates and Views (Model View Whatever)
+* Data Binding
+* Forms validation
+* Controller and $scope
+* Models and Services
+* Build-in module system.
+* $scope, $digest, $apply
 
 ## Testing
 * [Karma](http://karma-runner.github.io) - testing environment: test on real devices, framework agnostic, debugging, CI.
