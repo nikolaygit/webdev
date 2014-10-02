@@ -6,6 +6,7 @@ http://angularjs.org/ - Front-end framework.
 * [A Better Way to Learn AngularJS](http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs)
 * [AngularJS Tutorial: Learn to Build Modern Web Apps](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
 * [Learn AngularJS With These 5 Practical Examples](http://tutorialzine.com/2013/08/learn-angularjs-5-examples/)
+* [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
 
 ## Advantages
 * Easily organize code
@@ -16,21 +17,24 @@ http://angularjs.org/ - Front-end framework.
 
 ## Main Topics
 
-* Routes
-* Templates
-* Directives
-* Views
-* Data Binding
+* Routes - mapping URLs to templates and controllers.
+* Templates - HTML with directives and data bindings.
+* Directives - custom HTML elements and attributes.
+* Views - rendered templates.
+* Data Binding - sync data between model and view.
 * History
 * Factories
 * Validation
+* Fitlers - return subset of data or format the output.
 
 
+* $scope - glue between view and controller
+* Controller - function ONLY to augment the $scope. Glues services with views.
+  * no DOM manipulation (directives), filtering (filters), sharing code between controllers (services)
+* Models
+* Services - reusable business logic objects wired together with using dependency injection. Types: Service, Factory, Provider.
+* Depenceny Injection - load modules and services.
 * ViewModel
-* Controller 
-* Models and $scope
-* Services
-* Depenceny Injection
 
 
 * Build-in module system.
