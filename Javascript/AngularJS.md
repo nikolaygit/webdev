@@ -15,6 +15,7 @@ http://angularjs.org/ - Front-end framework.
 * JavaScript data structures
 
 ## Main Topics
+
 * Routes
 * Templates
 * Directives
@@ -23,16 +24,20 @@ http://angularjs.org/ - Front-end framework.
 * History
 * Factories
 * Validation
+
+
 * ViewModel
-* Controller and $scope
-* Models
-* Controllers
+* Controller 
+* Models and $scope
 * Services
-* Build-in module system.
-* $scope, $digest, $apply
 * Depenceny Injection
+
+
+* Build-in module system.
+* $digest, $apply
 * Testing
 * jqLite
+
 
 ## Testing
 * [Karma](http://karma-runner.github.io) - testing environment: test on real devices, framework agnostic, debugging, CI.
