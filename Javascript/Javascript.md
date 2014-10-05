@@ -8,6 +8,7 @@
 * [Object Playground: The Definitive Guide to Object-Oriented JavaScript](http://www.objectplayground.com/) - with Video.
 * [JavaScript in one page](http://www.javascript.su/)
 * [Superhero.js](http://superherojs.com/) - Collection of the best articles, videos and presentations on creating, testing and maintaining a large JavaScript code base.
+* [Speaking JavaScript](http://speakingjs.com/es5/index.html)
 
 ### Learn visually
 * [Online JavaScript Tutor](https://jstutor.herokuapp.com/#mode=display)
