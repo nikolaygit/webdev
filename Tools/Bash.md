@@ -1,5 +1,7 @@
 # Bash
 
+* [Awesome Shell](https://github.com/alebcay/awesome-shell)
+
 ## Make sh file [executable](https://help.ubuntu.com/community/Beginners/BashScripting#Scripting)
 
 ```
