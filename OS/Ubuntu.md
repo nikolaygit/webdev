@@ -37,4 +37,5 @@ ffmpeg -f x11grab -r 25 -s 1920x1200 -i :0.0 -sameq Desktop/out.mp4
 ## Mounting
 
 [Mount automatically NTFS drive](https://help.ubuntu.com/community/Fstab#ntfs).
+* ``etc/fstab``
 * ``/dev/sda6 /media/shared ntfs-3g defaults,uid=yourusername,gid=yourgroupid,umask=000,windows_names 0 0``
