@@ -1,3 +1,9 @@
+# Git Reference
+
+* [http://git-scm.com/](Notes from git-scm.com)
+
+## Intro
+
 File Status Lifecycle:
 * untracked
 * unmodifed - not shown
@@ -5,7 +11,6 @@ File Status Lifecycle:
 * staged
 
 ## Config
-
 * git config --global alias.st 'status'
 
 
