@@ -13,6 +13,21 @@ File Status Lifecycle:
 ## Config
 * git config --global alias.st 'status'
 
+## Start a project
+
+### Set default pull and push
+Run:
+
+* git config branch.master.remote origin
+* git config branch.master.merge refs/heads/master
+
+to create in `.git/config`
+
+```
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+```
 
 ## 2.3 Viewing the Commit History
 
