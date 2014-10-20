@@ -10,6 +10,7 @@ http://ionicframework.com
 
 * [Ionic Demo](http://stegrams.github.io/ionic-demo/)
 * [Accordion List](http://codepen.io/ionic/pen/uJkCz)
+* [Employee Directory App](https://github.com/ccoenraets/directory-ionic-nodejs) ([Demo](http://ionic-directory.herokuapp.com))
 
 # Components
 
