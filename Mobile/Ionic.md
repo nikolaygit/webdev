@@ -10,3 +10,7 @@ http://ionicframework.com
 
 * [Ionic Demo](http://stegrams.github.io/ionic-demo/)
 * [Accordion List](http://codepen.io/ionic/pen/uJkCz)
+
+# Components
+
+* [tabbedSlideBox](https://github.com/saravmajestic/ionic/tree/master/tabbedSlideBox) ([Demo](http://ionic-sarav.rhcloud.com/ionic/tabbedSlideBox/))
