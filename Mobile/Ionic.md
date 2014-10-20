@@ -8,4 +8,5 @@ http://ionicframework.com
 
 # Examples
 
+* [Ionic Demo](http://stegrams.github.io/ionic-demo/)
 * [Accordion List](http://codepen.io/ionic/pen/uJkCz)
