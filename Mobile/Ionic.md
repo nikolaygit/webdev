@@ -15,3 +15,4 @@ http://ionicframework.com
 # Components
 
 * [tabbedSlideBox](https://github.com/saravmajestic/ionic/tree/master/tabbedSlideBox) ([Demo](http://ionic-sarav.rhcloud.com/ionic/tabbedSlideBox/))
+* [ionic-multiple-views](https://github.com/alongubkin/ionic-multiple-views) ([Demo](http://alongubkin.github.io/ionic-multiple-views/demo/index.html#/masterDetail/messages))
