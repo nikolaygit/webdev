@@ -57,6 +57,7 @@ Installing Grunt and gruntplugins:
 ## Performance
 
 * [Supercharging your Gruntfile](http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/)
+* [jit-grunt](https://github.com/shootaroo/jit-grunt) - improve loading tasks speed by lazy loading them.
 
 ## Workflow
 * [Advanced Grunt tooling](http://chrisawren.com/posts/Advanced-Grunt-tooling)
