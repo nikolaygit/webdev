@@ -65,6 +65,9 @@ http://angularjs.org/ - Front-end framework.
 
 * http://ngmodules.org
 
+### Debugging
+
+* [toastr](http://codeseven.github.io/toastr/)
 
 ## German
 * [AngularJS.de - Das deutsche Portal zu AngularJS](http://angularjs.de/)
