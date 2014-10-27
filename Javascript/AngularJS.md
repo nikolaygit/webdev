@@ -61,5 +61,10 @@ http://angularjs.org/ - Front-end framework.
 * [Neat things built with AngularJS](http://builtwith.angularjs.org/)
 * [Bountysource frontend](https://github.com/bountysource/frontend)
 
+## Modules
+
+* http://ngmodules.org
+
+
 ## German
 * [AngularJS.de - Das deutsche Portal zu AngularJS](http://angularjs.de/)
