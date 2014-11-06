@@ -6,8 +6,15 @@
 * [Install npm packages globally on Linux without sudo](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo-linux.md)
 * [node-and-npm-in-30-seconds.sh](https://gist.github.com/isaacs/579814)
 
-## Intro
+## Learning
 * [An Absolute Beginner's Guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
+
+### Modules
+
+* npm outdated
+* npm ls
+* npm repo module_name
+* [npm-shrinkwrap](https://www.npmjs.org/doc/cli/npm-shrinkwrap.html) - lock down dependency versions.
 
 
 ## NPM Packages
