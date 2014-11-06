@@ -16,6 +16,12 @@
 * npm repo module_name
 * [npm-shrinkwrap](https://www.npmjs.org/doc/cli/npm-shrinkwrap.html) - lock down dependency versions.
 
+### Exceptions
+
+* [Crash safety using domains in Node.js](https://engineering.gosquared.com/error-handling-using-domains-node-js)
+* [domain.bind](http://nodejs.org/api/domain.html#domain_domain_bind_callback)(function(error, data) { ... })
+* [domain.intercept](http://nodejs.org/api/domain.html#domain_domain_intercept_callback)(function(data) { ... })
+
 
 ## NPM Packages
 
