@@ -16,6 +16,14 @@
 * Nested Views
 * Complex Rendering
 * Model Relationships
-* Local Data Caching
+* Local Data Caching (e.g. views)
 * Data-binding (two-way)
+
+## Emerging patterns
+
+* Custom components (Polymer, React)
+* Real-time updates (Socket.IO, Pusher)
+* Real-time sync (Firebase, Meteor)
+* Persistent offline cache (hood.ie)
+* Device capabilities (e.g. camera, location)
 
