@@ -1,4 +1,3 @@
-
 # [Patterns across front-end frameworks](https://www.youtube.com/watch?v=Bp3Jy177NvU)
 
 ## Common patterns
@@ -13,3 +12,10 @@
 * RESTful API access
 
 ## Advanced patterns
+
+* Nested Views
+* Complex Rendering
+* Model Relationships
+* Local Data Caching
+* Data-binding (two-way)
+
