@@ -27,3 +27,7 @@
 * Persistent offline cache (hood.ie)
 * Device capabilities (e.g. camera, location)
 
+# Others
+
+* Internationalization
+* 
