@@ -16,9 +16,11 @@
 
 ### FP in JavaScript
 
+JS contains:
 * YES: first-class function, lambdas/anonymous functions with closures
 * NO: recursion through tail call optimization, pattern matching, lazy evaluation, homoiconicity
 
+Definitions:
 * **pure function** is a function have no side effects. It always returns the same result given the same arguments.
 * **closure** is a function containing one or more free variables. Free variable are not bound within the function environment. [Read](https://leanpub.com/javascript-allonge/read#closures)
 * **higher-order function** is a function that either takes functions as arguments or returns a function (or both).
