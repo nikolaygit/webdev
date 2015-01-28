@@ -1,8 +1,6 @@
-# JavaScript Knowledge
+# Functional Programming
 
-## Functional Programming
-
-### Functional vs OOP
+## Functional vs OOP
 
 * Read [Functional vs OOP](http://raganwald.com/2013/04/08/functional-vs-OOP.html)
 
@@ -14,7 +12,7 @@
 * Those things that change relatively often can be written in an OO style.
 * Those that are unlikely to change but are subject to being operated upon by a changing cast of entities should be written in a more FP style.
 
-### FP in JavaScript
+## FP in JavaScript
 
 JS contains:
 * YES: first-class function, lambdas/anonymous functions with closures
@@ -31,7 +29,7 @@ Building blocks:
 * **composition** - chaining functions
 * **partial application** - applying only some of the arguments of a function
 
-### Learn
+## Learn
 
 Read:
 * [Scott Sauyet- Functional Programming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/)
@@ -41,7 +39,7 @@ Watch:
 * [Brian Lonsdorf - Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
 * [Reginald Braithwaite - Javascript Combinators](https://vimeo.com/97408202)
 
-### Libraries
+## Libraries
 
 * https://lodash.com/
 * http://underscorejs.org/
