@@ -17,9 +17,11 @@ Building blocks:
 Slides:
 * [Scott Sauyet- Functional Programming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/)
 
-
 Videos:
 * [Brian Lonsdorf - Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
+
+Books:
+* [Javascript Allonge](https://leanpub.com/javascript-allonge/read) - learn how to write FP.
 
 ### Libraries
 
