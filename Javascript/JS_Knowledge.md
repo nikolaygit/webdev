@@ -16,10 +16,10 @@ Building blocks:
 
 * Read [Functional vs OOP](http://raganwald.com/2013/04/08/functional-vs-OOP.html)
 
-|     | data and operations upon it are | central model for abstraction  | central activity  |
-| --- |:-------------------------------:|:------------------------------:|:-----------------:|
-| OOP | tightly coupled                 | data structure                 | composing new objects and extending existing objects by adding new methods to them
-| FP  | loosely coupled                 | function                       | writing new (higher-order) functions
+|     | data and operations upon it are | central model for abstraction  | central activity  | describe |
+| --- |:-------------------------------:|:------------------------------:|:-----------------:|:--------:|
+| OOP | tightly coupled                 | data structure                 | composing new objects and extending existing objects by adding new methods to them  | how to do it
+| FP  | loosely coupled                 | function                       | writing new (higher-order) functions | what to do
 
 * Those things that change relatively often can be written in an OO style.
 * Those that are unlikely to change but are subject to being operated upon by a changing cast of entities should be written in a more FP style.
