@@ -1,6 +1,6 @@
 # JavaScript Knowledge
 
-## Functions
+## Functional Programming
 
 * **pure function** is a function that always returns the same result given the same arguments.
 * **closure** is a function containing one or more free variables. Free variable are not bound within the function environment. [Read](https://leanpub.com/javascript-allonge/read#closures)
@@ -11,3 +11,14 @@
 Building blocks:
 * **composition** - chaining functions
 * **partial application** - applying only some of the arguments of a function
+
+### Libraries
+
+* https://lodash.com/
+* http://underscorejs.org/
+* https://github.com/raganwald/allong.es
+* http://ramdajs.com/
+ 
+### Disadvantages
+
+* **debugging** - the stack traces are harder to follow? (comment - is this true?)
