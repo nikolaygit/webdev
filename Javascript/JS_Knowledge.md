@@ -19,6 +19,7 @@ Slides:
 
 Videos:
 * [Brian Lonsdorf - Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
+* [Reginald Braithwaite - Javascript Combinators](https://vimeo.com/97408202)
 
 Books:
 * [Javascript Allonge](https://leanpub.com/javascript-allonge/read) - learn how to write FP.
