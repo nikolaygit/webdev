@@ -12,7 +12,7 @@ Building blocks:
 * **composition** - chaining functions
 * **partial application** - applying only some of the arguments of a function
 
-## Functional vs OOP
+### Functional vs OOP
 
 * Read [Functional vs OOP](http://raganwald.com/2013/04/08/functional-vs-OOP.html)
 
