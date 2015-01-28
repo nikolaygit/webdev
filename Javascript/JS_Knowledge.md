@@ -12,10 +12,21 @@ Building blocks:
 * **composition** - chaining functions
 * **partial application** - applying only some of the arguments of a function
 
+## Functional vs OOP
+
+* Read [Functional vs OOP](http://raganwald.com/2013/04/08/functional-vs-OOP.html)
+
+|     | data and operations upon it are | central model for abstraction  | central activity  |
+| --- |:-------------------------------:|:------------------------------:|:-----------------:|
+| OOP | tightly coupled                 | data structure                 | composing new objects and extending existing objects by adding new methods to them
+| FP  | loosely coupled                 | function                       | writing new functions
+
+* Those things that change relatively often can be written in an OO style.
+* Those that are unlikely to change but are subject to being operated upon by a changing cast of entities should be written in a more FP style.
+
 ### Learn
 
 Read:
-* [Functional vs OOP](http://raganwald.com/2013/04/08/functional-vs-OOP.html)
 * [Scott Sauyet- Functional Programming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/)
 
 Videos:
