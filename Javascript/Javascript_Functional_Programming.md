@@ -43,7 +43,7 @@ And through these, we can also achieve
 * Easier debugging
 * Simple concurrency
 
-### Disadvantages?
+## Disadvantages?
 
 * **debugging** - the stack traces are harder to follow? (comment - is this true?) Using named functions?
 * **performance** - any issues? Brian Lonsdorf (see videos) reports no relevant performance issues.
