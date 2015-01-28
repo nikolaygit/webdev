@@ -35,7 +35,7 @@ Building blocks:
 
 Read:
 * [Scott Sauyet- Functional Programming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/)
-* [Javascript Allonge](https://leanpub.com/javascript-allonge/read) - learn how to write FP.
+* [Javascript Allonge](https://leanpub.com/javascript-allonge/read) - learn how to write higher-order functions.
 
 Watch:
 * [Brian Lonsdorf - Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
