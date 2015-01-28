@@ -24,10 +24,24 @@ Definitions:
 * **higher-order function** is a function that either takes functions as arguments or returns a function (or both).
 * **combinator** is a higher-order pure function that takes only functions as arguments and returns a function.
 * **function decorator** is a higher-order function that takes one function as an argument, returns another function, and the returned function is a variation of the argument function.
+* **currying** is the process of converting functions that take multiple arguments into ones that, when supplied fewer arguments, return new functions that accept the remaining ones.
+* **partial application**
 
 Building blocks:
 * **composition** - chaining functions
 * **partial application** - applying only some of the arguments of a function
+
+## [Advantages](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/#slide-143)
+
+* Elegance and simplicity
+* Easier decomposition of problems
+* Code more closely tied to the problem domain
+
+And through these, we can also achieve
+
+* Straightforward unit testing
+* Easier debugging
+* Simple concurrency
 
 ## Learn
 
