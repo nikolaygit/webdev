@@ -45,5 +45,5 @@ Books:
  
 ### Disadvantages?
 
-* **debugging** - the stack traces are harder to follow? (comment - is this true?)
+* **debugging** - the stack traces are harder to follow? (comment - is this true?) Using named functions?
 * **performance** - any issues? Brian Lonsdorf (see videos) reports no relevant performance issues.
