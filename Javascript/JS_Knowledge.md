@@ -12,6 +12,15 @@ Building blocks:
 * **composition** - chaining functions
 * **partial application** - applying only some of the arguments of a function
 
+### Learn
+
+Slides:
+* [Scott Sauyet- Functional Programming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/)
+
+
+Videos:
+* [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
+
 ### Libraries
 
 * https://lodash.com/
