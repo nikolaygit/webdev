@@ -2,7 +2,7 @@
 
 ## Functional Programming
 
-* **pure function** is a function that always returns the same result given the same arguments.
+* **pure function** is a function have no side effects. It always returns the same result given the same arguments.
 * **closure** is a function containing one or more free variables. Free variable are not bound within the function environment. [Read](https://leanpub.com/javascript-allonge/read#closures)
 * **higher-order function** is a function that either takes functions as arguments or returns a function (or both).
 * **combinator** is a higher-order pure function that takes only functions as arguments and returns a function.
