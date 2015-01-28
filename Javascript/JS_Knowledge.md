@@ -19,7 +19,7 @@ Building blocks:
 |     | data and operations upon it are | central model for abstraction  | central activity  |
 | --- |:-------------------------------:|:------------------------------:|:-----------------:|
 | OOP | tightly coupled                 | data structure                 | composing new objects and extending existing objects by adding new methods to them
-| FP  | loosely coupled                 | function                       | writing new functions
+| FP  | loosely coupled                 | function                       | writing new (higher-order) functions
 
 * Those things that change relatively often can be written in an OO style.
 * Those that are unlikely to change but are subject to being operated upon by a changing cast of entities should be written in a more FP style.
