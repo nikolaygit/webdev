@@ -19,7 +19,7 @@ Slides:
 
 
 Videos:
-* [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
+* [Brian Lonsdorf - Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
 
 ### Libraries
 
@@ -28,6 +28,7 @@ Videos:
 * https://github.com/raganwald/allong.es
 * http://ramdajs.com/
  
-### Disadvantages
+### Disadvantages?
 
 * **debugging** - the stack traces are harder to follow? (comment - is this true?)
+* **performance** - any issues? Brian Lonsdorf (see videos) reports no relevant performance issues.
