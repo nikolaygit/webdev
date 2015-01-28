@@ -14,7 +14,8 @@ Building blocks:
 
 ### Learn
 
-Slides:
+Read:
+* [Functional vs OOP](http://raganwald.com/2013/04/08/functional-vs-OOP.html)
 * [Scott Sauyet- Functional Programming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming/)
 
 Videos:
