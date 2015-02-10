@@ -40,6 +40,7 @@ to create in `.git/config`
 * git log --pretty=oneline
 * git log --oneline
 * git log --pretty=format:"%h %an : %s" --graph
+    * options: http://git-scm.com/docs/pretty-formats
 
 Filtering:
 * git log --grep <commit message>
