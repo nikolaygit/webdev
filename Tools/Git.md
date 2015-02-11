@@ -30,6 +30,7 @@ Here are described the steps to use Git under Windows. Feel free to improve the 
 
 ### Commits
 * [A Better Git Commit](http://web-design-weekly.com/blog/2013/09/01/a-better-git-commit/)
+* [Git Commit Guidelines, AngularJS](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#commit)
 
 ### Branches
 * Create and switch to a new branch: ```git checkout -b branch_name```
