@@ -15,6 +15,7 @@
 * [Like](http://wordpress.org/extend/plugins/like/) - Facebook like button for posts
 * [MailChimp Widget](http://wordpress.org/extend/plugins/mailchimp-widget/) - easy and free newsletter by Mailchimp
 * [Social Media Widget](http://wordpress.org/extend/plugins/social-media-widget/) - Adds links to all of your social media and sharing site as a widget
+* [Shareholic](https://wordpress.org/plugins/shareaholic/) - The easiest, most effective way to grow your website traffic, effectively engage your audience, monetize, and gain insights for free.
 * [Solid Code Theme Editor](https://wordpress.org/extend/plugins/solid-code-theme-editor/) - edit ALL theme files
 * [W3 Total Cache](http://wordpress.org/extend/plugins/w3-total-cache/) - for caching (performance)
 * [XCloner - Backup and Restore](https://wordpress.org/extend/plugins/xcloner-backup-and-restore/) - schedule backups with cron jobs
