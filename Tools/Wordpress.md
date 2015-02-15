@@ -11,6 +11,7 @@
 * [Contact Form 7](http://wordpress.org/extend/plugins/contact-form-7/) - easy to maintain contact form
 * [Efficient Related Posts](http://wordpress.org/extend/plugins/efficient-related-posts/) - shows related posts by tags
 * [Enhanced Recent Posts](http://wordpress.org/extend/plugins/enhanced-recent-posts/) - shows recent posts, can exclude posts from categories
+* [Easy Facebook Like Box](https://wordpress.org/plugins/easy-facebook-like-box/)
 * [Like](http://wordpress.org/extend/plugins/like/) - Facebook like button for posts
 * [MailChimp Widget](http://wordpress.org/extend/plugins/mailchimp-widget/) - easy and free newsletter by Mailchimp
 * [Social Media Widget](http://wordpress.org/extend/plugins/social-media-widget/) - Adds links to all of your social media and sharing site as a widget
