@@ -1,5 +1,9 @@
 # Famo.us
 
+## Learn 
+
+* [Famo.us Guides](https://famo.us/guides/)
+
 ## Mobile
 
 * [Create high-performance mobile UIs with Famo.us](http://www.ibm.com/developerworks/library/wa-famous/)
