@@ -17,6 +17,9 @@ Others:
 * http://www.stepstone.de/
 * https://dasauge.de/jobs/stellenangebote/freelancer/
 
+Lists
+* http://www.autaak.de/18-projektboersen-fuer-freelancer-und-unternehmen/
+
 ## Tools
 
 * https://www.fastbill.com
