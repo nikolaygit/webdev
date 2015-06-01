@@ -10,7 +10,8 @@
 * ```sudo apt-get install pgadmin3``` (Admin)
 * ```sudo apt-get build-dep python-psycopg2``` (PostgreSQL dependencies)
 
-### Console:
+## Console:
+* ```sudo /etc/init.d/postgresql restart```
 * ```sudo -u postgres psql```
 
 ### Create Database
