@@ -1,6 +1,10 @@
 # PostgreSQL
 
-## Linux Installation
+## Installation
+
+* [Installing PostgreSQL 9.4 on Ubuntu 14.04](http://www.rogerpence.com/2015/01/02/install-postgres-9-4-on-ubuntu/)
+
+### Alternative
 * ```sudo apt-get install libpq-dev python-dev``` (libs to connect to PostgreSQL)
 * ```sudo apt-get install postgresql``` (PostgreSQL)
 * ```sudo apt-get install pgadmin3``` (Admin)
