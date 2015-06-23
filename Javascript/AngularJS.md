@@ -69,5 +69,10 @@ http://angularjs.org/ - Front-end framework.
 
 * [toastr](http://codeseven.github.io/toastr/)
 
+#### Console
+
+* ``angular.element($0).scope()`` - select an element in Chrome and get its scope.
+* ``angular.element(document.body).injector().get('MyService')`` - get an Angularjs service.
+
 ## German
 * [AngularJS.de - Das deutsche Portal zu AngularJS](http://angularjs.de/)
