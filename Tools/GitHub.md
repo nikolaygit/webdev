@@ -2,9 +2,6 @@
 
 https://github.com/
 
-##  Sinnwerkstatt at GitHub
-* https://github.com/sinnwerkstatt/
-
 ##  GitHub.io
 
 ### Project Pages
