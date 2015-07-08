@@ -21,6 +21,10 @@ ffmpeg -f x11grab -r 25 -s 1920x1200 -i :0.0 -sameq Desktop/out.mp4
 
 * [LICEcap](http://www.cockos.com/licecap/) - only Windows and OSX.
 
+### Terminal recording
+
+* [asciinema](https://asciinema.org/)
+
 ## Webcam recording
 
 * [guvcview](http://guvcview.sourceforge.net/) - working better than Cheese.
