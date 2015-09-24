@@ -38,6 +38,7 @@ Here are described the steps to use Git under Windows. Feel free to improve the 
 * Switch to a branch: ```git checkout branch_name```
 * Delete a branch: ```git branch -d branch_name```
 * Rename branch: ```git branch -m new_branch_name```
+* Push local branch: ```git push -u origin branch_name```
 
 ## When merge branch was accepted
 * ```git remote update``` (get and update all remote references)
