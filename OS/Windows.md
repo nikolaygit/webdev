@@ -6,4 +6,4 @@
 
 ## Time
 
-* [Hourglass](http://chris.dziemborowicz.com/apps/hourglass/) - counter up/down (incl. MM:SS), always on top, pop up, sounds. Formats: "2:00 pm"
+* [Hourglass](http://chris.dziemborowicz.com/apps/hourglass/) - counter up/down (incl. MM:SS), always on top, pop up, sounds. [Formats](http://chris.dziemborowicz.com/apps/hourglass/#details): "2:00 pm"
