@@ -6,4 +6,4 @@
 
 ## Time
 
-* [Orzeszek Timer](http://www.orzeszek.org/dev/timer/) - counter up/down (incl. MM:SS), always on top, pop up, sounds.
+* [Hourglass](http://chris.dziemborowicz.com/apps/hourglass/) - counter up/down (incl. MM:SS), always on top, pop up, sounds.
