@@ -20,6 +20,10 @@
 ### GUI
 * ``pgadmin3``
 
+## Performance
+
+* [Configuring PostgreSQL for read performance](http://dba.stackexchange.com/questions/42290/configuring-postgresql-for-read-performance)
+
 ##OSX Installation
 http://postgresapp.com/
 
@@ -47,7 +51,3 @@ template1=# \q
 
 ## Setup Server
 * https://help.ubuntu.com/community/PostgreSQL#Basic_Server_Setup
-
-## Performance
-
-* [Configuring PostgreSQL for read performance](http://dba.stackexchange.com/questions/42290/configuring-postgresql-for-read-performance)
