@@ -24,7 +24,7 @@
 
 * [Configuring PostgreSQL for read performance](http://dba.stackexchange.com/questions/42290/configuring-postgresql-for-read-performance)
 * [Connecting to the Database](https://jdbc.postgresql.org/documentation/head/connect.html)
-
+* [Make User/DB Read-Only](http://vibhork.blogspot.de/2012/03/read-only-userread-only-databaseread.html)
 
 ##OSX Installation
 http://postgresapp.com/
