@@ -23,6 +23,8 @@
 ## Performance
 
 * [Configuring PostgreSQL for read performance](http://dba.stackexchange.com/questions/42290/configuring-postgresql-for-read-performance)
+* [Connecting to the Database](https://jdbc.postgresql.org/documentation/head/connect.html)
+
 
 ##OSX Installation
 http://postgresapp.com/
