@@ -13,6 +13,7 @@ https://www.jetbrains.com/pycharm/ is a Python and Django IDE
     * Ctrl + Alt + Home - go to Related Files, go back with Show Usages.
     * Open "Enter file name" and type "ve\js" - this searches all "js" files within a directory that contains the string "ve"
     * Alt + J - select next similar item. Useful to select multiple similar items and then edit them.
+* [WebStorm Tricks and Tips](https://www.youtube.com/watch?v=leKbqNpgoNQ)
 * [AceJump](http://johnlindquist.com/2012/08/14/ace_jump.html) -> Ctrl + , and chose a character for jump
 * [Get out of my way](https://www.youtube.com/watch?v=GEwjDeof1ak) - hide unneeded UI elements.
     * View-> hide the toolbars
