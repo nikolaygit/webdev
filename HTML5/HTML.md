@@ -3,7 +3,7 @@
 ## Emmet
 * [Emmet](http://emmet.io/) [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet/)
     * [Emmet is awesome](http://www.youtube.com/watch?v=0uIPGgq9R5Y)
-    * [7 Awesome Emmet HTML Time-Saving Tips](designshack.net/articles/css/7-awesome-emmet-html-time-saving-tips/)
+    * [7 Awesome Emmet HTML Time-Saving Tips](http://designshack.net/articles/css/7-awesome-emmet-html-time-saving-tips/)
     * [Emme and Bootstrap](http://hub.tutsplus.com/tutorials/build-bootstrap-in-minutes-using-emmet--webdesign-14585)
 * [https://code.google.com/p/zen-coding/ Zen Coding]([Terminal]].)
 
